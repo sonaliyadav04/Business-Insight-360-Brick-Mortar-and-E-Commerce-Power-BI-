@@ -1,39 +1,38 @@
-Here is a more refined and professional version of your **project synopsis, key highlights, and data sources**—well-suited for resumes, portfolios, or LinkedIn project sections:
+Power BI project – Business Insights 360!
+This interactive dashboard provides key analytics across multiple departments, enabling data-driven decision-making for business growth.
 
----
+𝗞𝗲𝘆 𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
 
-### **📊 Project Synopsis: Business Insights 360 | Power BI Dashboard**
+🔹Finance View: Provides a comprehensive Profit & Loss analysis, including revenue, expenses, and profitability. Features include net sales trends and top/bottom product performance, offering a clear picture of the company's financial health.
 
-The **Business Insights 360** dashboard, built using **Microsoft Power BI**, delivers in-depth, real-time analytics for **AtliQ Hardware** across **Finance, Sales, Marketing, and Supply Chain** departments globally. This interactive solution integrates data from **Excel/CSV files** and a **MySQL database**, offering a unified and strategic view of organizational performance.
+🔹Sales View: Analyzing customer, product, and regional performance with dynamic filters and insightful KPIs. Empowering smarter decisions through Net Sales, Gross Margin, and Unit Economics.
 
----
+🔹Marketing View: Uncovering insights on profit margins, segment-wise performance, and regional net profit trends.
 
-### **🌟 Key Highlights**
+🔹Supply Chain View: Shows forecast accuracy, Net Error, trends and key metrics by customers and product.
 
-1. **Customized Dashboard Development:**
-   Designed a dynamic Power BI dashboard tailored to AtliQ Hardware’s business needs, delivering granular insights across key operational domains.
+🔹Executive View: A high-level summary with KPI cards, revenue breakdowns, and key trends – built to support strategic decision-making at the leadership level.
 
-2. **Seamless Data Integration:**
-   Integrated diverse data sources—including Excel, CSV, and MySQL—into Power BI to support cross-functional analysis with real-time updates.
+𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱: MySQL, Power query, power BI, DAX studio.
 
-3. **Advanced Data Modeling & Visuals:**
-   Built a robust data model with relationships and hierarchies; developed visually impactful and interactive dashboards using custom visuals and slicers.
+𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗶𝗻 𝗧𝗵𝗶𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁:
 
-4. **Performance Optimization:**
-   Utilized **DAX Studio** to fine-tune DAX queries and improve loading times, achieving a **5% boost in report efficiency**.
+➡️Creating calculated columns
 
-5. **Strategic Insights for Decision-Makers:**
-   Enabled leadership to identify key trends and performance drivers, promoting faster and more accurate **data-driven decisions**.
+➡️Creating measures using DAX language
 
----
+➡️Developed Data models and relationships
 
-### **🔗 Data Sources**
+➡️Using Bookmarks and Buttons for dynamic visual interactions
 
-* **Excel/CSV Files:**
-  Provided inputs on **Targets**, **Market Share**, and departmental performance metrics.
+➡️Created dynamic titles based on applied filters
 
-* **MySQL Database:**
-  Served as the backend for **fact tables** (e.g., sales, discounts, costs) and **dimension tables** (e.g., customers, products, time), covering all departments.
+➡️Implemented KPIs and conditional formatting
+
+➡️Performed Data Validation
+
+➡️Published and Scheduled Refreshes via Power BI Service
+
 
 ---
 
